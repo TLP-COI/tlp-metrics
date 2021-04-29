@@ -1,0 +1,12 @@
+papers:
+  architecture:
+    folder: "papers/architecture"
+    width: 
+    height: 
+    columns: 1 
+    column_width: 
+    fig_settings:
+      dpi: 300
+      font_family: 'serif'
+fig_settings:
+  font_family: 'sans'
